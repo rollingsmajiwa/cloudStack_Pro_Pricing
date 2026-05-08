@@ -15,7 +15,7 @@ In a competitive cloud market, clarity and professionalism are key. This project
 ### 3. Technologies used
 
 - HTML5: Semantic structure for SEO and accessibility.
-- CSS3: For responsive layout and modern styling (linked via `styles.css`).
+- Tailwindcss: For responsive layout and modern styling (linked via `<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>`).
 - Git/Github: version control and feature-based branching.
 
 ### 4. Accessibility features
